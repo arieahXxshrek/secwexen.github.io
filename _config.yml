@@ -1,0 +1,25 @@
+title: "Secwexen"
+description: "Offensive security research, notes, writeups, and technical articles."
+baseurl: ""
+url: "https://secwexen.github.io"
+
+theme: minima
+
+author:
+  name: "secwexen"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (header links)
+header_pages:
+  - index.md
+  - about.md
+  - blog/index.md
+  - research/index.md
+  - writeups/index.md
+  - projects/index.md
