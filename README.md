@@ -7,4 +7,4 @@ Built with GitHub Pages.
 
 ---
 
-© 2026 secwexen — All Rights Reserved.
+© 2026 secwexen — Content licensed under CC BY 4.0 | Code under MIT License | https://secwexen.github.io/
